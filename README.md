@@ -12,3 +12,6 @@ This is a simple chatbot built using Python.
 
 ## Author
 Ankita Barahalikar
+
+##Output Screenshot
+![Chatbot Output](chatbot-output.png)
